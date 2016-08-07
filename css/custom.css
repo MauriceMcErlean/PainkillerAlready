@@ -1,3 +1,7 @@
+.scroll {
+    height: 100vh;
+    overflow-y: scroll;
+}
 nav {
   background-color: #CB1B1B;
   width:100%;
